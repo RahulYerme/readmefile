@@ -2,6 +2,16 @@ hi This is my first program
 
 adding a new line
 
+<<<<<<< Updated upstream
 Adding a third line.
 
 Adding a new line for branch cheak.
+=======
+<<<<<<< HEAD
+adding a third line.
+=======
+Adding a third line.
+
+Adding a new line for branch cheak.
+>>>>>>> RahulDemo
+>>>>>>> Stashed changes
