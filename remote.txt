@@ -1,1 +1,2 @@
 adding a new line for remote repo checking.
+Adding a new linw diff check.
