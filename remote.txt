@@ -1,3 +1,7 @@
 adding a new line for remote repo checking.
+<<<<<<< HEAD
 Adding a new linw diff check.
 Adding a new line for master.
+=======
+Adding a new line for conflict change.
+>>>>>>> RahulDemo
