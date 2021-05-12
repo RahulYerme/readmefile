@@ -1,3 +1,2 @@
 Adding a new line for Revert check.
-Adding a new line for RESET check.
-Adding new line for revert. 
+Adding a new line for RESET check. 
