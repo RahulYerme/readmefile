@@ -1,2 +1,1 @@
-Adding a new line for Revert check.
-Adding a new line for commit check. 
+Adding a new line for Revert check. 
