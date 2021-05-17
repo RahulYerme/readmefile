@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Adding new file for commitbranch.
 Adding a new line from user Rahul.
+||||||| merged common ancestors
+Adding new file for commitbranch.
+=======
+Adding new file from user ab.
+>>>>>>> 012bc729414d5824da5860d754a7d132a5070996
