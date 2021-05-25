@@ -1,6 +1,13 @@
-
-Adding new file from git-demo.
-
+<<<<<<< HEAD
 
 
 
+
+
+
+||||||| merged common ancestors
+Adding new file from user ab.
+=======
+Adding new file from user ab.
+ab user adding new line.
+>>>>>>> 9a6556dc69b42754fab01897b8e45737975f1595
